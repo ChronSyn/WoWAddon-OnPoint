@@ -1,0 +1,9 @@
+## Interface: 100007
+## Title: OnPoint
+## Version: 0.0.1
+## Author: ChronSyn
+## Notes: Automatically stops quests from taking your world pin marker focus
+## SavedVariables: OnPointDb
+## LoadOnDemand: 0
+## Dependencies:
+OnPoint.xml

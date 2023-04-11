@@ -1,0 +1,3 @@
+local an, ans = ...
+
+OP_Core.Frames.OPFrame:RegisterEvent("QUEST_POI_UPDATE")
